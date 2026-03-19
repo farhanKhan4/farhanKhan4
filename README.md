@@ -14,10 +14,10 @@
 
 <!-- ═══════════════════════════ SOCIAL BADGES ═══════════════════════════ -->
 
-<a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-Farhan_Khan-0d0d0d?style=for-the-badge&logo=linkedin&labelColor=1a1a2e&color=e2c4f0" alt="LinkedIn" /></a>
-<a href="https://www.instagram.com/dot.khan"><img src="https://img.shields.io/badge/Instagram-Dot_Khan-0d0d0d?style=for-the-badge&logo=instagram&labelColor=1a1a2e&color=e2c4f0" alt="Instagram" /></a>
+<a href="https://www.linkedin.com/in/farhan-khan-00817a296/"><img src="https://img.shields.io/badge/LinkedIn-Farhan_Khan-0d0d0d?style=for-the-badge&logo=linkedin&labelColor=1a1a2e&color=e2c4f0" alt="LinkedIn" /></a>
+<a href="https://www.instagram.com/dot.khan_"><img src="https://img.shields.io/badge/Instagram-Dot_Khan-0d0d0d?style=for-the-badge&logo=instagram&labelColor=1a1a2e&color=e2c4f0" alt="Instagram" /></a>
 <a href="https://your-portfolio.com"><img src="https://img.shields.io/badge/Portfolio-your--site-0d0d0d?style=for-the-badge&labelColor=1a1a2e&color=e2c4f0" alt="Portfolio" /></a>
-<a href="mailto:your@email.com"><img src="https://img.shields.io/badge/Email-Say_Hello-0d0d0d?style=for-the-badge&logo=gmail&labelColor=1a1a2e&color=e2c4f0" alt="Email" /></a>
+<a href="nasrufarhan42@gmail.com"><img src="https://img.shields.io/badge/Email-Say_Hello-0d0d0d?style=for-the-badge&logo=gmail&labelColor=1a1a2e&color=e2c4f0" alt="Email" /></a>
 
 <br/><br/>
 
