@@ -2,26 +2,26 @@
 
 <!-- ═══════════════════════════ ANIMATED HEADER ═══════════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:1a1a2e,100:e2c4f0&height=230&section=header&text=FARHAN%20KHAN&fontSize=65&fontColor=e2c4f0&fontAlignY=33&desc=CS%20Student%20%E2%80%A2%20Creative%20Dev%20%E2%80%A2%20UI%2FUX%20Explorer&descSize=20&descAlignY=55&descColor=e2c4f0&animation=fadeIn" width="100%" alt="Farhan Khan" />
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0d1117,50:161b22,100:21262d&height=230&section=header&text=FARHAN%20KHAN&fontSize=65&fontColor=e6edf3&fontAlignY=38&desc=CS%20Student%20%E2%80%A2%20Creative%20Dev%20%E2%80%A2%20UI%2FUX%20Explorer&descSize=18&descAlignY=58&descColor=8b949e&animation=fadeIn" width="100%" alt="Farhan Khan" />
 
 <!-- ═══════════════════════════ TYPING ANIMATION ═══════════════════════════ -->
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=E2C4F0&center=true&vCenter=true&multiline=true&repeat=true&width=750&height=100&lines=Building+beautiful+things+for+the+web;UI%2FUX+%7C+Frontend+%7C+Creative+Dev;Turning+ideas+into+interfaces" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=E6EDF3&center=true&vCenter=true&multiline=true&repeat=true&width=750&height=100&lines=Building+beautiful+things+for+the+web;UI%2FUX+%7C+Frontend+%7C+Creative+Dev;Turning+ideas+into+interfaces" alt="Typing SVG" />
 </a>
 
 <br/>
 
 <!-- ═══════════════════════════ SOCIAL BADGES ═══════════════════════════ -->
 
-<a href="https://www.linkedin.com/in/farhan-khan-00817a296/"><img src="https://img.shields.io/badge/LinkedIn-Farhan_Khan-0d0d0d?style=for-the-badge&logo=linkedin&labelColor=1a1a2e&color=e2c4f0" alt="LinkedIn" /></a>
-<a href="https://www.instagram.com/dot.khan_"><img src="https://img.shields.io/badge/Instagram-Dot_Khan-0d0d0d?style=for-the-badge&logo=instagram&labelColor=1a1a2e&color=e2c4f0" alt="Instagram" /></a>
-<a href="https://your-portfolio.com"><img src="https://img.shields.io/badge/Portfolio-your--site-0d0d0d?style=for-the-badge&labelColor=1a1a2e&color=e2c4f0" alt="Portfolio" /></a>
-<a href="nasrufarhan42@gmail.com"><img src="https://img.shields.io/badge/Email-Say_Hello-0d0d0d?style=for-the-badge&logo=gmail&labelColor=1a1a2e&color=e2c4f0" alt="Email" /></a>
+<a href="https://www.linkedin.com/in/farhan-khan-00817a296/"><img src="https://img.shields.io/badge/LinkedIn-Farhan_Khan-0d1117?style=for-the-badge&logo=linkedin&labelColor=161b22&color=e6edf3" alt="LinkedIn" /></a>
+<a href="https://www.instagram.com/dot.khan_/"><img src="https://img.shields.io/badge/Instagram-dot.khan_-0d1117?style=for-the-badge&logo=instagram&labelColor=161b22&color=e6edf3" alt="Instagram" /></a>
+<a href="https://your-portfolio.com"><img src="https://img.shields.io/badge/Portfolio-your--site-0d1117?style=for-the-badge&labelColor=161b22&color=e6edf3" alt="Portfolio" /></a>
+<a href="mailto:nasrufarhan42@gmail.com"><img src="https://img.shields.io/badge/Email-nasrufarhan42-0d1117?style=for-the-badge&logo=gmail&labelColor=161b22&color=e6edf3" alt="Email" /></a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=farhanKhan4&style=for-the-badge&color=1a1a2e&label=PROFILE+VIEWS" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=farhanKhan4&style=for-the-badge&color=161b22&label=PROFILE+VIEWS" alt="Profile Views" />
 
 </div>
 
@@ -42,7 +42,7 @@
 
 ▸ Currently exploring **cybersecurity**, building projects during online internships, and sharpening my skills one commit at a time.
 
-▸ I run **[Dot Khan](https://www.instagram.com/dot.khan)** — an Instagram page where I share tech content and creative work.
+▸ I run **[Dot Khan](https://www.instagram.com/dot.khan_)** — an Instagram page where I share tech content and creative work.
 
 ▸ Always open to **collaborations, internships, and interesting builds** — let's make something worth using.
 
@@ -55,11 +55,11 @@
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=farhanKhan4&show_icons=true&theme=dark&bg_color=0d0d0d&title_color=e2c4f0&text_color=e2c4f0&icon_color=e2c4f0&border_color=1a1a2e&hide_border=false&count_private=true" width="100%" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=farhanKhan4&show_icons=true&theme=dark&bg_color=0d1117&title_color=e6edf3&text_color=e6edf3&icon_color=e6edf3&border_color=161b22&hide_border=false&count_private=true" width="100%" alt="GitHub Stats" />
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=farhanKhan4&theme=dark&background=0d0d0d&ring=e2c4f0&fire=e2c4f0&currStreakLabel=e2c4f0&sideLabels=e2c4f0&sideNums=e2c4f0&currStreakNum=e2c4f0&dates=888888&border=1a1a2e" width="100%" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=farhanKhan4&theme=dark&background=0d1117&ring=e6edf3&fire=e6edf3&currStreakLabel=e6edf3&sideLabels=e6edf3&sideNums=e6edf3&currStreakNum=e6edf3&dates=888888&border=161b22" width="100%" alt="GitHub Streak" />
 
 <br/><br/>
 
@@ -104,7 +104,7 @@
 <!-- Currently Learning -->
 <h4 align="center">📚 Currently Learning</h4>
 <p align="center">
-  <img src="https://img.shields.io/badge/Cybersecurity-0d0d0d?style=for-the-badge&logo=hackthebox&labelColor=1a1a2e&color=e2c4f0" alt="Cybersecurity" />
+  <img src="https://img.shields.io/badge/Cybersecurity-0d1117?style=for-the-badge&logo=hackthebox&labelColor=161b22&color=e6edf3" alt="Cybersecurity" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
 </p>
@@ -120,13 +120,13 @@
 
 <br/>
 
-<a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-Farhan_Khan-0d0d0d?style=for-the-badge&logo=linkedin&labelColor=1a1a2e&color=e2c4f0" alt="LinkedIn" /></a>
+<a href="https://www.linkedin.com/in/farhan-khan-00817a296/"><img src="https://img.shields.io/badge/LinkedIn-Farhan_Khan-0d1117?style=for-the-badge&logo=linkedin&labelColor=161b22&color=e6edf3" alt="LinkedIn" /></a>
 &nbsp;
-<a href="https://www.instagram.com/dot.khan"><img src="https://img.shields.io/badge/Instagram-Dot_Khan-0d0d0d?style=for-the-badge&logo=instagram&labelColor=1a1a2e&color=e2c4f0" alt="Instagram" /></a>
+<a href="https://www.instagram.com/dot.khan_/"><img src="https://img.shields.io/badge/Instagram-dot.khan_-0d1117?style=for-the-badge&logo=instagram&labelColor=161b22&color=e6edf3" alt="Instagram" /></a>
 &nbsp;
-<a href="https://your-portfolio.com"><img src="https://img.shields.io/badge/Portfolio-your--site-0d0d0d?style=for-the-badge&labelColor=1a1a2e&color=e2c4f0" alt="Portfolio" /></a>
+<a href="https://your-portfolio.com"><img src="https://img.shields.io/badge/Portfolio-your--site-0d1117?style=for-the-badge&labelColor=161b22&color=e6edf3" alt="Portfolio" /></a>
 &nbsp;
-<a href="mailto:your@email.com"><img src="https://img.shields.io/badge/Email-Say_Hello-0d0d0d?style=for-the-badge&logo=gmail&labelColor=1a1a2e&color=e2c4f0" alt="Email" /></a>
+<a href="mailto:nasrufarhan42@gmail.com"><img src="https://img.shields.io/badge/Email-nasrufarhan42-0d1117?style=for-the-badge&logo=gmail&labelColor=161b22&color=e6edf3" alt="Email" /></a>
 
 <br/><br/>
 
@@ -145,7 +145,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:1a1a2e,100:e2c4f0&height=120&section=footer" width="100%" alt="Footer" />
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:21262d,50:161b22,100:0d1117&height=120&section=footer" width="100%" alt="Footer" />
 
 <sub>⭐ Star my repos if you find them useful!</sub>
 
