@@ -1,4 +1,4 @@
-<h3 style="font-size: 2em;">Software engineer building products people love</h3>
+<h3 style="font-size: 2em;">Creative Developer building products people love</h3>
 <p style="font-size: 1.5em;">
   I build things I need, and somehow they end up solving problems for others too. Mostly web apps and tools that make life easier.
 </p>
