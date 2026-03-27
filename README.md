@@ -1,4 +1,4 @@
-<h3 style="font-size: 2em;">Creative Developer building products people love</h3>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Instrument+Serif&duration=1000&pause=999997&color=F7F7F7&center=true&vCenter=true&repeat=false&width=435&lines=Creative+Developer+building+products+people+love)](https://git.io/typing-svg)
 <p style="font-size: 1.5em;">
   I build things I need, and somehow they end up solving problems for others too. Mostly web apps and tools that make life easier.
 </p>
