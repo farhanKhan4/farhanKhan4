@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Instrument+Serif&size=30&duration=1000&pause=999997&color=F7F7F7&vCenter=true&repeat=false&width=500&height=60&lines=Creative+Developer+building+products+people+love.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Instrument+Serif&size=30&duration=1000&pause=999997&color=F7F7F7&vCenter=true&repeat=false&width=500&height=32&lines=Creative+Developer+building+products+people+love.)](https://git.io/typing-svg)
 <p style="font-size: 1.5em;">
   I build things I need, and somehow they end up solving problems for others too. Mostly web apps and tools that make life easier.
 </p>
