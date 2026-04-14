@@ -15,7 +15,7 @@
 
 <h4 style="font-size: 1.7em;">Portfolio:</h4>
 <p>
-  <a href="https://yourportfolio.dev" target="_blank">
+  <a href="https://farhan-folio.netlify.app" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" />
   </a>
 </p>
